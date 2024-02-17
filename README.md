@@ -56,3 +56,6 @@
 [Coconut Brah](https://www.youtube.com/@CoconutBrah)
 
 [Marley](https://www.youtube.com/@MeatyMarley)
+
+## Create Strategies 
+[R6 Strats](https://r6strat.com/)
